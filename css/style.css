@@ -21,4 +21,17 @@
   --neutral-100: hsl(0, 0%, 100%);
   --neutral-500: hsl(0, 0%, 50%);
   --neutral-800: hsl(0, 0%, 7%);
+
+  /* <======= FONT FAMILY ========> */
+  --ff-regular: "Figtree", sans-serif;
+
+  /* <======== FONT WEIGHTS ======> */
+  --fw-500: 500;
+  --fw-800: 800;
+
+  /* <======== FONT SIZES ======> */
+  --fs-small: 0.875rem; /* 14px */
+  --fs-medium: 1rem; /*16px*/
+  --fs-large: 1.125rem; /* 18px */
+  --fs-xlarge: 1.25rem; /* 20px */
 }
